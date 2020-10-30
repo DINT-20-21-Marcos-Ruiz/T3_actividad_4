@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:T3_actividad_4"
         mc:Ignorable="d"
-        Title="Visor de imágenes" Height="595.349" Width="695.349" MinWidth="695.349" Icon="visor_imagenes.ico">
+        Title="Visor de imágenes" Height="595.349" Width="695.349" MinWidth="695.349" MinHeight="595.349" Icon="visor_imagenes.ico">
     <Grid>
         <DockPanel LastChildFill="True" Margin="0,10,10,10">
             <DockPanel LastChildFill="False" DockPanel.Dock="Bottom"  Height="70" Background="LightBlue" Margin="10,30,0,0">
